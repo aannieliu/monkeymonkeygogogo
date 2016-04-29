@@ -1,14 +1,20 @@
-# monkey, monkey, go! go! go!
-#Reinforcement Learning of Swingy Monkey 
 
-Andong Liu, Yulei Wang and Xiaoran Zhang
+#Reinforcement Learning of Swingy Monkey 
+## monkey, monkey, go! go! go!
+
+####Andong Liu, Yulei Wang and Xiaoran Zhang
 
 This repository contains code files of reinforcement learning of the game Swing Monkey.
 
-model_Q has the code for the Q-learning model.
-This code also saves a dictionary containing (the number of iterations, the current scores and highest scores) after running the model.
+Please read Task.pdf for a description of the game and out goal.
 
-model_Q_2 has the codeo for the Q-learning model 2.0.
-This code also saves a dictionary containing (the number of iterations, the current scores, highest scores and the proportion of non-zero Q-matrix entries) after running the model.
+Please read Report.pdf for a description of what we did.
+
+
+model_Q_1.py  has the code for the Q-learning model mentioned in the report.
+            This code also saves a dictionary containing (the number of iterations, the current scores and highest scores) after running the model.
+
+model_Q_2.py  has the codeo for the Q-learning model 2.0 mentioned in the report.
+            This code also saves a dictionary containing (the number of iterations, the current scores, highest scores and the proportion of non-zero Q-matrix entries) after running the model.
 
 
