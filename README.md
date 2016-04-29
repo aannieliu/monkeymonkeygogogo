@@ -1,8 +1,11 @@
 
 #Reinforcement Learning of Swingy Monkey 
+
+
 ## monkey, monkey, go! go! go!
 
 ####Andong Liu, Yulei Wang and Xiaoran Zhang
+![](http://also.kottke.org/misc/images/monkey-self-portrait.jpg)
 
 This repository contains code files of reinforcement learning of the game Swing Monkey.
 
