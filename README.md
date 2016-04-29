@@ -11,7 +11,7 @@ This repository contains code files of reinforcement learning of the game Swing 
 
 Please read [Task.pdf](https://github.com/aannieliu/monkeymonkeygogogo/blob/master/Task.pdf) for a description of the game and out goal.
 
-Please read Report.pdf for a description of what we did.
+Please read [Report.pdf](https://github.com/aannieliu/monkeymonkeygogogo/blob/master/Report.pdf) for a description of what we did.
 
 
 [model_Q_1.py](https://github.com/aannieliu/monkeymonkeygogogo/blob/master/model_Q_1.py)  has the code for the Q-learning model mentioned in the report.
@@ -20,4 +20,4 @@ Please read Report.pdf for a description of what we did.
 [model_Q_2.py](https://github.com/aannieliu/monkeymonkeygogogo/blob/master/model_Q_2.py)  has the codeo for the Q-learning model 2.0 mentioned in the report.
             This code also saves a dictionary containing (the number of iterations, the current scores, highest scores and the proportion of non-zero Q-matrix entries) after running the model.
 
-
+[report.py](https://github.com/aannieliu/monkeymonkeygogogo/blob/master/report.py) contains some code to help you open the saved dictionary files.
